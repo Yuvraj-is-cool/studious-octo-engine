@@ -1,0 +1,10 @@
+.heading{
+    font-size:25px;
+    width:100%;
+    margin:0px;
+}
+canvas{
+    border-color: orange;
+    stroke:blue;
+    border-radius:15px solid white ;
+}
